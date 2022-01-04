@@ -12,6 +12,7 @@
     transform: translate(-50%, -50%);
 
     color: white;
+    background-image: url("bg.jpg");
     background-color: red;
 }
 
